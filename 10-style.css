@@ -30,3 +30,24 @@ img{
 h1{
     font-size: 70px;
 }
+
+/* 11 assinment styles */
+
+h1{
+    align-content: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #f0f0f0;
+}
